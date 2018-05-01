@@ -19,5 +19,5 @@
 **Related Patterns**
 
 - [Abstract Factory](https://github.com/andreidana/AbstractFactoryExample)
-- Template Methods
-- Prototypes
+- [Template Methods](https://github.com/andreidana/TemplateMethodPattern)
+- [Prototypes](https://github.com/andreidana/PrototypeExample)
